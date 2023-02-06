@@ -1,0 +1,8 @@
+com\zetcode\StudentElasticRepository.class
+com\zetcode\DataConfig.class
+com\zetcode\Student.class
+com\zetcode\StudentDAO.class
+com\zetcode\AppConfig.class
+com\zetcode\Application.class
+com\zetcode\StudentJDBCTemplate.class
+com\zetcode\StudentMapper.class
